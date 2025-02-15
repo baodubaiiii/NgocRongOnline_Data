@@ -1,0 +1,1 @@
+Id: 175, Name: Hang băng 2, BgID: 8, tileId: 25, bgType: 5, mapDouble: False

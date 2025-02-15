@@ -1,0 +1,1 @@
+Id: 52, Name: Đại hội võ thuật, BgID: 8, tileId: 9, bgType: 0, mapDouble: FalseId: 52, Name: Đại hội võ thuật, BgID: 8, tileId: 9, bgType: 0, mapDouble: False

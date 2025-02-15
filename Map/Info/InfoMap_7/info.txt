@@ -1,0 +1,1 @@
+Id: 7, Name: Làng Mori, BgID: 0, tileId: 5, bgType: 4, mapDouble: False

@@ -1,0 +1,1 @@
+Id: 146, Name: Tây Karin, BgID: 3, tileId: 4, bgType: 0, mapDouble: False

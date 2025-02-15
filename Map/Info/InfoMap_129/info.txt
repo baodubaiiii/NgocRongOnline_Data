@@ -1,0 +1,1 @@
+Id: 129, Name: Đại hội võ thuật, BgID: 8, tileId: 15, bgType: 0, mapDouble: False

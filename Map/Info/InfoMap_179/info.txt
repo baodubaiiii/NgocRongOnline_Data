@@ -1,0 +1,1 @@
+Id: 179, Name: Phòng thí nghiệm Myuu, BgID: 20, tileId: 33, bgType: 0, mapDouble: False

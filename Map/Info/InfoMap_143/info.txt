@@ -1,0 +1,1 @@
+Id: 143, Name: Con đường rắn độc, BgID: 0, tileId: 14, bgType: 5, mapDouble: False

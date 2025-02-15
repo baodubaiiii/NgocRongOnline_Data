@@ -1,0 +1,1 @@
+Id: 112, Name: Võ đài Hạt Mít, BgID: 15, tileId: 26, bgType: 0, mapDouble: False

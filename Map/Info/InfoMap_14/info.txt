@@ -1,0 +1,1 @@
+Id: 14, Name: Làng Kakarot, BgID: 8, tileId: 9, bgType: 0, mapDouble: False
