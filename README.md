@@ -4,6 +4,8 @@ Full Assest Server + Assest Client of the Top Asia 2D Game, inspired by the Drag
 
 #Nếu cần data dạng Json String hãy nhắn tin qua Contact
 
+## Tham khảo data src java: https://github.com/SQKhanh/nro_data
+
 #Contact
 
  -> Facebook: https://www.facebook.com/baodubai2k8/
